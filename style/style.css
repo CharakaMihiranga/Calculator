@@ -35,9 +35,13 @@ body {
 	display: flex;
 	justify-content: flex-end;
 	align-items: flex-end;
-	color: white;
+	color: rgb(0, 0, 0);
 	text-align: right;
 	flex: 1 1 0%;
+}
+
+.input {
+color: #696161;
 }
 
 .display .content {
